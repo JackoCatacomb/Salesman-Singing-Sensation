@@ -1,0 +1,32 @@
+{
+	"storyName": "50 Percent Off On Redheads",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"pico",
+		"gf"
+	],
+	"songs": [
+		[
+			"Shooters-On-Sale",
+			"spamton",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Pico VS Spamton",
+	"hiddenUntilUnlocked": false
+}

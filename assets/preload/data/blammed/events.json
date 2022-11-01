@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": null,
+		"player1": "bf",
+		"player2": "pico",
+		"player3": null,
+		"events": [
+			[
+				23272.7272727273,
+				[
+					[
+						"deez",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Blammed"
+	}
+}

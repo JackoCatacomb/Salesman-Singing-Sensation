@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				-56
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				-51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": true,
+			"name": "laugh"
+		},
+		{
+			"offsets": [
+				148,
+				-45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "big",
+			"loop": false,
+			"name": "bigshot"
+		},
+		{
+			"offsets": [
+				150,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KromerSpamton",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-250,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
